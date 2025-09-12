@@ -2,6 +2,12 @@
 
 Repositori ini digunakan untuk belajar pemrograman platform desktop dan embedded
 
+## 📌 Format Tugas
+
+1. Buat project/folder dengan format nim-ppde-workspace
+2. Masukan aplikasi yang anda kerjakan ke dalam folder tersebut
+3. Kumpulkan melalui git ini.
+
 ## 📌 Langkah Pengumpulan Tugas
 
 1. **Fork** repositori ini
